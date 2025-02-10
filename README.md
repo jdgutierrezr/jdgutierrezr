@@ -4,8 +4,6 @@
 print("Nice to meet you!")
 ```
 
-I am studying systems engineering at Universidad de los Andes. I like several sports, but actually I love soccer. It is my favorite sport and often I practice it. Also, I love videogames. I could spend the whole day playing videogames. Therefore, I would like to develop videogames in the future. I love programming and I consider myself a good programmer, but I am still learning. Currently, I am also interested in development of Virtual Reality Apps, and development of mobile apps. I decided to study systems engeneering because I feel apasionated about technology and its new applications in the world. I wish to develop amazing software that could be used for million of people around the world.
-
 ![Juan David's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jdgutierrezr&theme=dark&hide_border=true)<br/>
 
 - **💻 Technologies I have worked with:**
